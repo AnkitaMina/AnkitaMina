@@ -11,9 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/yourprofile" target="blank">
-    <img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="Twitter Followers" />
-  </a>
   <a href="https://linkedin.com/in/ankita-meena-b3610b1b3" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
